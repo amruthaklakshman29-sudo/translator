@@ -9,5 +9,5 @@ from io import BytesIO
 langs_dict = GoogleTranslator().get_supported_languages(as_dict=True)
 
 def main():
-    st.image("PragyanAI_Transperent.png")
+    st.image("image-asset.png")
     st.title(" PragyanAI - VVIET Workshop: Audio Hub")
